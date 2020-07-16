@@ -27,6 +27,7 @@ Label Encoding
 
 
 Data Augmentation
+
 Resizing
 
 Center Crop
